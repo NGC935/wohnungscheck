@@ -1,0 +1,397 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\setlist[itemize]{nosep}
+\end_preamble
+\use_default_options true
+\begin_modules
+enumitem
+\end_modules
+\maintain_unincluded_children false
+\language ngerman
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 2cm
+\rightmargin 1cm
+\bottommargin 2cm
+\headheight 0cm
+\headsep 0cm
+\footskip 0cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip smallskip
+\quotes_language english
+\papercolumns 2
+\papersides 1
+\paperpagestyle plain
+\bullet 1 0 26 5
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Part
+Vorbereitung
+\end_layout
+
+\begin_layout Section*
+Prolog:
+\end_layout
+
+\begin_layout Itemize
+Vorher dem Termin: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Nebenkostenabrechnung anfordern
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Anfahrt gucken
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Mitnehmen: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Kamera
+\end_layout
+
+\begin_layout Itemize
+Metermaßband (gerne auch länger als 2
+\begin_inset space \thinspace{}
+\end_inset
+
+m)
+\end_layout
+
+\begin_layout Itemize
+Anfahrtsskizze
+\end_layout
+
+\begin_layout Itemize
+Grundriss/Exposé
+\end_layout
+
+\begin_layout Itemize
+Taschenlampe
+\end_layout
+
+\begin_layout Itemize
+diese Notizen
+\end_layout
+
+\begin_layout Itemize
+Stift
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Die Besichtigung
+\end_layout
+
+\begin_layout Section
+Außen
+\end_layout
+
+\begin_layout Itemize
+Parkplatz
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+JA
+\end_layout
+
+\begin_layout Itemize
+Nein
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Muss/Kann man einen mieten? 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Gegend? Ghetto? 
+\begin_inset CommandInset line
+LatexCommand rule
+offset "-0.1theight%"
+width "50col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Umgebung: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Autobahn
+\end_layout
+
+\begin_layout Itemize
+Bahnhof
+\end_layout
+
+\begin_layout Itemize
+Industrie
+\end_layout
+
+\begin_layout Itemize
+Hafen
+\end_layout
+
+\begin_layout Itemize
+sonstige Lärm-/Geruchsquellen
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Haus
+\end_layout
+
+\begin_layout Itemize
+Aktueller Sonnenlichtverlauf? Hat der Balkon/Garten Licht?
+\end_layout
+
+\begin_layout Itemize
+Externe Räume? Von außen zugängliches?
+\end_layout
+
+\begin_layout Itemize
+Stellplatz für's Fahrrad? Hof?
+\end_layout
+
+\begin_layout Itemize
+hört man Nachbarn?
+\end_layout
+
+\begin_layout Itemize
+Treppen und Eingang: Knarren oder Türenschlagen
+\end_layout
+
+\begin_layout Itemize
+Briefkasten und Klingelbrett: zustand?
+\end_layout
+
+\begin_layout Itemize
+Risse oder Feuchtigkeit an Wänden
+\end_layout
+
+\begin_layout Section
+Wohnung
+\end_layout
+
+\begin_layout Subsection
+Räume
+\end_layout
+
+\begin_layout Itemize
+Grundriss :> Sind die Räume gut geschnitten oder am Stück?
+\end_layout
+
+\begin_layout Itemize
+Lage von Küche und Bad
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Belüftung?
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Kellerraum
+\end_layout
+
+\begin_layout Itemize
+Stellplatz Trockner und Waschmaschine
+\end_layout
+
+\begin_layout Itemize
+Zustand der Türen, eindeutiges Schließen?
+\end_layout
+
+\begin_layout Itemize
+Übermäßige Abnutzung des Bodens?
+\end_layout
+
+\begin_layout Itemize
+Fenster? X-fach verglast? Wasserspuren? Auf- und Zumachen!!1!
+\end_layout
+
+\begin_layout Itemize
+Rollladen: Funktion und Zustand
+\end_layout
+
+\begin_layout Itemize
+Garten/Balkonzustand?
+\end_layout
+
+\begin_layout Subsection
+Infrastruktur
+\end_layout
+
+\begin_layout Itemize
+Steckdosen
+\end_layout
+
+\begin_layout Itemize
+Netzwerk/Interwebs
+\end_layout
+
+\begin_layout Itemize
+Telefon
+\end_layout
+
+\begin_layout Itemize
+Glotze
+\end_layout
+
+\begin_layout Itemize
+Wasserdruck im Bad/Küche
+\end_layout
+
+\begin_layout Itemize
+Mal auf's Klo gehen
+\end_layout
+
+\begin_layout Itemize
+Heizung aufdrehen?
+\end_layout
+
+\begin_layout Subsection
+Altlasten
+\end_layout
+
+\begin_layout Itemize
+Küche drin?
+\end_layout
+
+\begin_layout Itemize
+Bezahlung derer?
+\end_layout
+
+\begin_layout Itemize
+Renovierung? Was genau?
+\end_layout
+
+\begin_layout Itemize
+Sonstige Dinge übernehmen? Entfernungspflicht?
+\end_layout
+
+\begin_layout Section
+Formalien
+\end_layout
+
+\begin_layout Itemize
+Welche Schäden werden noch beseitigt? → Was wird im Mietvertrag stehen?
+\end_layout
+
+\begin_layout Itemize
+Energieausweis?
+\end_layout
+
+\begin_layout Itemize
+Gartennutzung?
+\end_layout
+
+\begin_layout Itemize
+Wann unsere, wann deren Entscheidung?
+\end_layout
+
+\begin_layout Itemize
+Schon ein Vertragsentwurf dabei?
+\end_layout
+
+\begin_layout Section
+Epilog
+\end_layout
+
+\begin_layout Itemize
+Mach diese Notizen!!1!
+\end_layout
+
+\begin_layout Itemize
+Danach evtl.
+ Spaziergang zu den wichtigsten Punkten 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Einkauf
+\end_layout
+
+\begin_layout Itemize
+Bank
+\end_layout
+
+\begin_layout Itemize
+Haltestellen Bus/Bahn
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
